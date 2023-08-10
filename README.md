@@ -1,5 +1,6 @@
 # wiki
 CS50W project_one WIKI
+
 Languages: Python (Django), HTML, CSS
 ## Main functions:
 * View page
